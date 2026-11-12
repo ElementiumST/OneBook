@@ -1,0 +1,19 @@
+build:
+  maxIssues: 0
+config:
+  validation: true
+  excludes: "onebook.*,onebook>.*>.*"
+onebook:
+  active: true
+  ComposableMultilineArguments:
+    active: true
+  ComposablePreview:
+    active: true
+  ViewModelInterface:
+    active: true
+  InterfaceImplementationSeparation:
+    active: true
+  ViewModelImplementationNaming:
+    active: true
+  DirectMutableStateFlow:
+    active: true

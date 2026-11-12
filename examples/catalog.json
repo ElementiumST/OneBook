@@ -1,0 +1,8 @@
+[
+  {
+    "id": "my-book",
+    "title": "Название аудиокниги",
+    "author": "Автор",
+    "file": "audio/my-book.mp3"
+  }
+]
